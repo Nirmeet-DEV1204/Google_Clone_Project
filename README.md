@@ -23,6 +23,7 @@ HTML and CSS: Used for creating the structure and styling of the web pages.
 
 #Getting Started
 To get started with the Google Clone project, follow these steps:
+1. Made Skeleton version of google Clone through HTML. 
 
 
 
